@@ -1,7 +1,7 @@
 ---
 title: "Neighborly - 1st Place Camp Polyhacks 2018 "
 layout: post
-date: 
+date: 2016-01-23 22:10
 tag: 
 image: 
 projects: true
