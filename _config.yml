@@ -14,7 +14,7 @@ picture: assets/images/dev_profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: <a href="devinnicholson.github.io/assets/images/DevinN-Resume.pdf" target="_blank">Resume</a>
+resume-url: /assets/images/DevinN-Resume.pdf
 
 url: https://devinnicholson.github.io
 # your url: http://USERNAME.github.io
