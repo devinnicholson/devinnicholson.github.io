@@ -1,7 +1,7 @@
 ---
 title: "AWS Capture Replay Tool - Capstone"
 layout: post
-date: 2018-01-23 22:10
+date: 1970-01-01 22:10
 tag: 
 image: 
 projects: true
