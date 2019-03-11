@@ -22,7 +22,7 @@ url: https://devinnicholson.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: a86097817w128282217p132012618
+ analytics-google: "a86097817w128282217p132012618"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
